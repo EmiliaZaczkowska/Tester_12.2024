@@ -1,3 +1,3 @@
 # Tester_12.2024
 
-feokjfjerigjeriujgh4ith
+Repozytorium na cele nauki podstaw gita
