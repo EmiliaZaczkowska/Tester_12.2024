@@ -10,3 +10,4 @@ potegowanie = number1 ** number2
 # wyswietlenie wyniku
 print(f"Suma Twoich liczb {number1}, {number2} to: {add}")
 print(f"{number1} do potegi  {number2} to: {potegowanie}")
+
